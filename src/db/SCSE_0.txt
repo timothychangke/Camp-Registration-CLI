@@ -1,0 +1,13 @@
+Camp Name: SCSE_0
+Starting Date: 2024-04-02
+Ending Date: 2024-04-05
+Registration closing date: 2024-04-15
+User Group: SCSE
+Location: SCSE
+Available Slots: 9
+Total Slots: 10
+Camp Committee Slots: 10
+Description: Fun
+StaffInCharge: HUKUMAR
+Visibility: true 
+ Attendee:  CHERN 
