@@ -1,4 +1,4 @@
-# SC2002_project
+# CampHub, an SC2002_project
 
 ## Table of Contents
 
